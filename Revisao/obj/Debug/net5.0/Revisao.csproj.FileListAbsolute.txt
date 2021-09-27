@@ -1,0 +1,16 @@
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\ws-vs2019.2021\ProjetoDIO\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
